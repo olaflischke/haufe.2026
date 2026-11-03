@@ -1,0 +1,8 @@
+2026-10-14 09:00:01 INFO  Testlauf gestartet build=2026.10.14.1 vm=WIN11-TEST-03
+2026-10-14 09:02:03 WARN  Datenbankantwort langsam query=employee_master durationMs=3200
+2026-10-14 09:03:11 INFO  Abrechnung gestartet employeeId=E-1042 month=09/2026
+2026-10-14 09:03:18 ERROR Abrechnung fehlgeschlagen employeeId=E-1042 code=CALC-204
+2026-10-14 09:06:44 WARN  PDF rendering slow employeeId=E-1043 durationMs=9800
+2026-10-14 09:10:21 ERROR Timeout beim Laden der Beitragsdaten endpoint=contribution-service timeoutMs=5000
+2026-10-14 09:16:34 ERROR Testfall TC-015 fehlgeschlagen reason=CALC-204
+2026-10-14 09:18:12 INFO  Testlauf beendet passed=13 failed=2 skipped=1
