@@ -1,7 +1,7 @@
 TestId,Modul,Ergebnis,DauerSekunden,Build,Fehlercode
 TC-001,Anmeldung,Passed,12,2026.10.14.1,
 TC-002,Stammdaten,Passed,45,2026.10.14.1,
-TC-003,Stammdaten,Failed,51,2026.10.14.1,DATA-101
+TC-003,Stammdaten,Failed;51,2026.10.14.1,DATA-101
 TC-004,Abrechnung,Passed,83,2026.10.14.1,
 TC-005,Abrechnung,Failed,88,2026.10.14.1,CALC-204
 TC-006,Abrechnung,Failed,92,2026.10.14.1,CALC-204
