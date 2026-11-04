@@ -1,0 +1,23 @@
+Ziel: Entwickler kann den Fehler ohne Rückfrage nachstellen.
+
+Ein Bugreport besteht aus folgenden Punkten:
+
+    Titel: beschreibt Fehler und Ort in einem Satz, ohne Wörter wie "geht nicht".
+    Schritte zur Nachstellung: nummeriert, vollständig, ausführbar.
+    Ist-Ergebnis: was tatsächlich passiert, mit konkreten Werten oder Meldungen.
+    Soll-Ergebnis: was passieren sollte, mit Bezug auf die Anforderung, falls vorhanden.
+    Testdaten: genaue Eingaben.
+    Umgebung: Version der Anwendung, Browser oder Betriebssystem, Testumgebung.
+    Häufigkeit: immer, manchmal, einmalig.
+    Belege: Screenshot, Fehlermeldung oder Protokollauszug, wenn sinnvoll.
+    Auswirkung: Schweregrad mit kurzer Begründung.
+
+Bewerte jedes Kriterium mit "erfüllt", "teilweise" oder "fehlt".
+
+ZUsammenfassung am Ende mit folgender Struktur:
+
+    Urteil: "Bereit für die Entwicklung", "Nachbessern" oder "Nicht verständlich".
+    Bewertung: Tabelle mit den neun Kriterien.
+    Rückfragen: nummerierte Fragen an die Person, die den Bugreport geschrieben hat.
+    Verbesserte Fassung: vollständiger Bugreport. Markiere jede Stelle, die du nicht aus dem
+    Original kennst, mit "[bitte ergänzen: ...]".
